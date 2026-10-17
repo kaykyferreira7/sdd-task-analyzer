@@ -1,0 +1,4 @@
+# A aplicação usa apenas a biblioteca padrão do Python (3.11+).
+# Dependências abaixo são somente para desenvolvimento e testes.
+pytest==9.1.1
+pytest-cov==7.1.0

@@ -1,0 +1,10 @@
+[project]
+name = "sdd-task-analyzer"
+version = "0.2.0"
+description = "TaskAnalyzer - Fase 2: métricas de tarefas guiadas por especificação (SDD)."
+requires-python = ">=3.11"
+
+[tool.pytest.ini_options]
+pythonpath = ["src"]
+testpaths = ["tests"]
+addopts = "-ra"

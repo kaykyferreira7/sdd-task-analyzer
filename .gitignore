@@ -1,0 +1,27 @@
+# Ambientes virtuais
+.venv/
+venv/
+env/
+
+# Bytecode e caches
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+# Cobertura
+.coverage
+.coverage.*
+htmlcov/
+coverage.xml
+
+# Credenciais e configurações locais
+.env
+.env.*
+*.pem
+*.key
+
+# Sistema operacional e editores
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
